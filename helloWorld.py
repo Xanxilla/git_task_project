@@ -1,1 +1,2 @@
-print("Git is awesome!")
+answer = input("Are you enjoying yourself? ")
+print(answer)
