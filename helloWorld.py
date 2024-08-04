@@ -1,4 +1,4 @@
 # User input
-answer = input("Are you enjoying yourself? ")
+user_answer = input("Are you enjoying yourself? ")
 # Print to screen user input
-print(answer)
+print(user_answer)
